@@ -10,9 +10,17 @@ In response to the school board finding evidence of academic dishonesty in the s
 
 ### How was the district summary affected?
 
+![District Summary Table](./Resources/district_summary.png)
+
 ### How was the school summary affected?
 
+![School Summary Table](./Resources/school_summary.png)
+
 ### Effect of Replacing the Ninth Graders’ Math and Reading Scores on Thomas High School’s Performance Relative to the Other Schools
+
+![Math Scores by School](./Resources/math_scores_by_school.png)
+
+![Reading Scores by School](./Resources/reading_scores_by_school.png)
 
 ### Effect of Replacing the Ninth-Grade Scores
 
@@ -20,9 +28,15 @@ In response to the school board finding evidence of academic dishonesty in the s
 
 #### Effect on Scores by School Spending
 
+![Scores by School Spending](./Resources/scores_by_school_spending.png)
+
 #### Effect on Scores by School Size
 
+![Scores by School Size](./Resources/scores_by_school_size.png)
+
 #### Effect on Scores by School Type
+
+![Scores by School Type](./Resources/scores_by_school_type.png)
 
 ## Summary
 
