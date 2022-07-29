@@ -28,4 +28,4 @@ In response to the school board finding evidence of academic dishonesty in the s
 
 ### Changes in the Updated School District Analysis
 
-After the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, 
+After the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, several changes occurred in the dataset.
