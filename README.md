@@ -28,7 +28,7 @@ Thomas High School remains a top-ranked school by scores after replacing the 9th
 
 ![Reading Scores by School](./Resources/reading_scores_by_school.png)
 
-* Effect of Replacing the Ninth-Grade Scores
+### Effect of Replacing the Ninth-Grade Scores
 
 - Effect on Math and Reading Scores by Grade
 
